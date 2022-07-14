@@ -2,21 +2,7 @@
   "type": "service_account",
   "project_id": "sdsfsdfdsfds",
   "private_key_id": "6f5e12bsdfsdfdsfdsvzcvzcxvzcxveqwfaweafwae4c5",
-  "private_key": "-----BEGIN RSA PRIVATE KEY-----
-MIICXAIBAAKBgQCRAC8YFW31kUcOqc6NjGpbjZH3tsFj0g/PZm38RFW4hg/16oct
-EO5oJvFyvi/5Ud52iHZX28QzLZDYfQ7M2WAADjurfQ82EVybGCtzxwM50gKUdFJJ
-Kjr8/8JBDBBpj7JQNqJdZzyz8hMpWi7xrH73MbWgwWmMTIRHBlq25+qfKQIDAQAB
-AoGAIRMequqwc1RZFgIryGPgGtQXGJ8KS9+tlYxyyBk6SGXkHB8MCH6VMxK2/opd
-XQyMpxMHk5Dglx/sq0UTbCylVeKTdqq88ri2aNYUe1dbKnSvu4bGPhtNcVqvu+3+
-JD6sF+3imS9J1tp3g3Ysh9/x7dHFOgUHaijXg8wT2B5hFdECQQD+oRRanjeKniYx
-2MpHrqwNUSJsYhuZBQMCjUVM26HiRtExTDu5e3JNw4IugGXoQQOWxLl5VrdD1qMW
-tLaA3lB9AkEAkcgEv10EzMPxv7fLY+v5rL/Tolt3rKcTPv/RMjub10Rw7WvLGONH
-+QnwVWGNNsszo+5JdEP10tw+To+MJ6pVHQJADdPjjhQ/geiavGRAf+oNb9+zFd2y
-D/pEspPHaqgWv3oHDD1OlQEOMQjn/ex9HELDliFyzRMXeriiPK5tpsvr5QJAOCYL
-/hC7uop14FvQEMpgvfKcdto3+93WAdvSHUDsQztvK2LrNMjFfdwgHyKVm1ckqq0q
-yYcrdW2y6dtMJjLq2QJBANTRQ2pulsXOLJaVpducsCC6PigyR4lHwuX04Xzvw3To
-0vRSkkKrBxDER6VKBhH+Dra7KzcWcpuT6LfmUAsC4tA=
------END RSA PRIVATE KEY-----",
+  "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIICXAIBAAKBgQCRAC8YFW31kUcOqc6NjGpbjZH3tsFj0g/PZm38RFW4hg/16oct\nEO5oJvFyvi/5Ud52iHZX28QzLZDYfQ7M2WAADjurfQ82EVybGCtzxwM50gKUdFJJ\nKjr8/8JBDBBpj7JQNqJdZzyz8hMpWi7xrH73MbWgwWmMTIRHBlq25+qfKQIDAQAB\nAoGAIRMequqwc1RZFgIryGPgGtQXGJ8KS9+tlYxyyBk6SGXkHB8MCH6VMxK2/opd\nXQyMpxMHk5Dglx/sq0UTbCylVeKTdqq88ri2aNYUe1dbKnSvu4bGPhtNcVqvu+3+\nJD6sF+3imS9J1tp3g3Ysh9/x7dHFOgUHaijXg8wT2B5hFdECQQD+oRRanjeKniYx\n2MpHrqwNUSJsYhuZBQMCjUVM26HiRtExTDu5e3JNw4IugGXoQQOWxLl5VrdD1qMW\ntLaA3lB9AkEAkcgEv10EzMPxv7fLY+v5rL/Tolt3rKcTPv/RMjub10Rw7WvLGONH\n+QnwVWGNNsszo+5JdEP10tw+To+MJ6pVHQJADdPjjhQ/geiavGRAf+oNb9+zFd2y\nD/pEspPHaqgWv3oHDD1OlQEOMQjn/ex9HELDliFyzRMXeriiPK5tpsvr5QJAOCYL\n/hC7uop14FvQEMpgvfKcdto3+93WAdvSHUDsQztvK2LrNMjFfdwgHyKVm1ckqq0q\nyYcrdW2y6dtMJjLq2QJBANTRQ2pulsXOLJaVpducsCC6PigyR4lHwuX04Xzvw3To\n0vRSkkKrBxDER6VKBhH+Dra7KzcWcpuT6LfmUAsC4tA=\n-----END RSA PRIVATE KEY-----",
   "client_email": "service-account@sdsfsdfdsfds.iam.gserviceaccount.com",
   "client_id": "186543674356782994433",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",

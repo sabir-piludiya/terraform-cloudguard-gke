@@ -23,7 +23,7 @@ terraform {
 provider "google" {
   region        = var.gcp-region
   project       = var.gcp-project
-  credentials   = file("${var.gcp-key-name}")
+  credentials   = var.gcp-key-name
 }
 
 provider "kubernetes" {
